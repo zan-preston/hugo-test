@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: http://localhost/sitemap.xml
+Sitemap: https://zan-preston.github.io/hugo-test/sitemap.xml
