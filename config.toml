@@ -1,4 +1,4 @@
-baseURL = 'http://localhost'
+baseURL = 'https://zan-preston.github.io/hugo-test'
 languageCode = 'en-us'
 title = "Pupper Docs"
 theme = "hugo-geekdoc"
