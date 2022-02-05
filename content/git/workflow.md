@@ -33,9 +33,9 @@ Merge it, Merge it
 
 {{< mermaid class="text-center">}}
 flowchart LR;
-    CODE-->REMOTE_BRANCH;
-    REMOTE_BRANCH-->PULL_REQUEST;
-    PULL_REQUEST-->REVIEW;
-    REVIEW-->MERGE;
-    MERGE-->DEPLOY;
+    "CODE"-->"REMOTE BRANCH";
+    "REMOTE BRANCH"-->"PULL REQUEST";
+    "PULL REQUEST"-->"REVIEW";
+    "REVIEW"-->"MERGE";
+    "MERGE"-->"DEPLOY";
 {{< /mermaid >}}
