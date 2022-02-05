@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-We commit in branches and open pull requests on the default branch (main|master).
+We commit in branches and open pull requests on the default branch (`main`|`master`).
 
 {{< columns >}}
 
